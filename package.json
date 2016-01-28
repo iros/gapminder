@@ -1,0 +1,18 @@
+{
+  "name": "gapminder",
+  "version": "0.0.1",
+  "description": "Gapminder D3.js Exercise",
+  "main": " ",
+  "scripts": {
+    "server": "node_modules/.bin/http-server ."
+  },
+  "keywords": [
+    "d3.js",
+    "visualization"
+  ],
+  "author": "Bocoup",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}
