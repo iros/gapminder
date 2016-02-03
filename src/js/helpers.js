@@ -92,6 +92,5 @@ function findExtent(data, indicator) {
     }
   });
 
-  console.log(extent, indicator);
   return extent;
 }
