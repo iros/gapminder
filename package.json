@@ -1,10 +1,10 @@
 {
   "name": "gapminder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gapminder D3.js Exercise",
   "main": " ",
   "scripts": {
-    "server": "node_modules/.bin/http-server ."
+    "server": "http-server ."
   },
   "keywords": [
     "d3.js",
